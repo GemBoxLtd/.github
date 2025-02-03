@@ -14,6 +14,7 @@ List of our .NET components:
 - [GemBox.Presentation](https://www.gemboxsoftware.com/presentation)
 - [GemBox.Email](https://www.gemboxsoftware.com/email)
 - [GemBox.Imaging](https://www.gemboxsoftware.com/imaging)
+- [GemBox.PdfViewer](https://www.gemboxsoftware.com/pdfviewer)
 
 You can contact us at:
 
