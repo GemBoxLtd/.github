@@ -1,4 +1,4 @@
-GemBox .NET libraries are used by developers in more than 7000 companies around the world to build fast, efficient, and easy-to-use software solutions. Some of our customers include Intel, Microsoft, Nasa, and Verizon. The libraries are:
+GemBox .NET libraries are used by developers at more than 11,000 companies worldwide to build fast, efficient, and easy-to-use software solutions. Some of our customers include Intel, Microsoft, Nasa, and Verizon. The libraries are:
 
 - [GemBox.Spreadsheet](https://www.gemboxsoftware.com/spreadsheet)
 - [GemBox.Document](https://www.gemboxsoftware.com/document)
